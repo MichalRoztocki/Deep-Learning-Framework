@@ -1,0 +1,709 @@
+{
+  "build": "py38h5da4933_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blosc >=1.20.1,<2.0a0",
+    "brotli >=1.0.9,<2.0a0",
+    "bzip2 >=1.0.8,<2.0a0",
+    "charls >=2.1.0,<2.2.0a0",
+    "giflib >=5.2.1,<5.3.0a0",
+    "lcms2 >=2.11,<3.0a0",
+    "lerc >=2.2.1,<3.0a0",
+    "libaec >=1.0.4,<2.0a0",
+    "libdeflate >=1.7,<1.8.0a0",
+    "libpng >=1.6.37,<1.7.0a0",
+    "libtiff >=4.1.0,<5.0a0",
+    "libzopfli >=1.0.3,<1.1.0a0",
+    "lz4-c >=1.9.3,<1.10.0a0",
+    "numpy >=1.16.6,<2.0a0",
+    "openjpeg >=2.3.0,<3.0a0",
+    "python >=3.8,<3.9.0a0",
+    "snappy >=1.1.8,<2.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "xz >=5.2.5,<6.0a0",
+    "zfp >=0.5.5,<1.0a0",
+    "zlib >=1.2.11,<1.3.0a0",
+    "zstd >=1.4.5,<1.4.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\imagecodecs-2021.1.11-py38h5da4933_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/INSTALLER",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/LICENSE",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/METADATA",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/RECORD",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/REQUESTED",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/WHEEL",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/direct_url.json",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/entry_points.txt",
+    "Lib/site-packages/imagecodecs-2021.1.11.dist-info/top_level.txt",
+    "Lib/site-packages/imagecodecs/__init__.py",
+    "Lib/site-packages/imagecodecs/__main__.py",
+    "Lib/site-packages/imagecodecs/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs/__pycache__/_imagecodecs.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs/__pycache__/imagecodecs.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs/_aec.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_bitshuffle.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_blosc.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_brotli.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_bz2.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_deflate.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_gif.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_imagecodecs.py",
+    "Lib/site-packages/imagecodecs/_imcd.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_jpeg2k.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_jpeg8.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_jpegls.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_jpegsof3.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_jpegxr.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_lerc.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_lz4.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_lz4f.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_lzf.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_lzma.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_png.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_shared.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_snappy.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_tiff.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_webp.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_zfp.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_zlib.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_zopfli.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/_zstd.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs/imagecodecs.py",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-aom",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-bitshuffle",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-blosc",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-brotli",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-brunsli",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-bzip2",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-charls",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-dav1d",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-fastlz",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-giflib",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-jpeg",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-jpg_0xc3",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-jxrlib",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-lcms2",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-lerc",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libaec",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libaivf",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libdeflate",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libjpeg",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libjpeg-turbo",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-liblzma",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libmng",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libpng",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libtiff",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-libwebp",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-lz4",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-lzf",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-openjpeg",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-rav1e",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-snappy",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-tinyexr",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-zfp",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-zlib",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-zopfli",
+    "Lib/site-packages/imagecodecs/licenses/LICENSE-zstd",
+    "Lib/site-packages/imagecodecs/licenses/PATENTS-rav1e",
+    "Scripts/imagecodecs.exe",
+    ".nonadmin"
+  ],
+  "fn": "imagecodecs-2021.1.11-py38h5da4933_1.conda",
+  "legacy_bz2_md5": "788db71eed69733bf7d480e861d49322",
+  "legacy_bz2_size": 6946122,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\imagecodecs-2021.1.11-py38h5da4933_1",
+    "type": 1
+  },
+  "md5": "b30101c293e6df3c6bd08917d3e9ed50",
+  "name": "imagecodecs",
+  "package_tarball_full_path": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\imagecodecs-2021.1.11-py38h5da4933_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "32920c54a77c053480d4f042dec5cee98dc78ba0c168b448a2df1d1abf213b6b",
+        "sha256_in_prefix": "32920c54a77c053480d4f042dec5cee98dc78ba0c168b448a2df1d1abf213b6b",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9c05f2c4d224fd509383b709a9d516da67fa6557fdebc004d25d65bb24dc1931",
+        "sha256_in_prefix": "9c05f2c4d224fd509383b709a9d516da67fa6557fdebc004d25d65bb24dc1931",
+        "size_in_bytes": 11714
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "dd4de4431d2e3dbcc6e97170fcff9b8cd12267f2f51e9bfbd116b9d4c9349d50",
+        "sha256_in_prefix": "dd4de4431d2e3dbcc6e97170fcff9b8cd12267f2f51e9bfbd116b9d4c9349d50",
+        "size_in_bytes": 7427
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1cbb7173f1e833e90633b14f2553d29d3b7436fd86ddf6440234f7202746f2e6",
+        "sha256_in_prefix": "1cbb7173f1e833e90633b14f2553d29d3b7436fd86ddf6440234f7202746f2e6",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "52dd83c8855547c7a484fc7cffa34dd6f6b85fcbf4ec95b566213a7764fe62ed",
+        "sha256_in_prefix": "52dd83c8855547c7a484fc7cffa34dd6f6b85fcbf4ec95b566213a7764fe62ed",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "47ed21718570e8a5909f76e16727960b5824a64300b80672e69fc89d2a11ae84",
+        "sha256_in_prefix": "47ed21718570e8a5909f76e16727960b5824a64300b80672e69fc89d2a11ae84",
+        "size_in_bytes": 59
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs-2021.1.11.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e3a00e362f7306e4a41425c5ae9839836172705839fd0e05b9f94c55dcfd872d",
+        "sha256_in_prefix": "e3a00e362f7306e4a41425c5ae9839836172705839fd0e05b9f94c55dcfd872d",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ac560076223340ffb8c7687fb0bc63084322b0383477de4f71ee167de05544af",
+        "sha256_in_prefix": "ac560076223340ffb8c7687fb0bc63084322b0383477de4f71ee167de05544af",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "4d20c5f2bec8158059cf148bf415a4d514ce3f6b40d73875fbdf3d9c2cf48d2d",
+        "sha256_in_prefix": "4d20c5f2bec8158059cf148bf415a4d514ce3f6b40d73875fbdf3d9c2cf48d2d",
+        "size_in_bytes": 1442
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "50bce5ebcb50ec9d05741f6e0b5587dff579c562a3a80068390135b0684538f6",
+        "sha256_in_prefix": "50bce5ebcb50ec9d05741f6e0b5587dff579c562a3a80068390135b0684538f6",
+        "size_in_bytes": 310
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a3258126303a9344b6579ea13df5953d3584e1da860ef6b8f1601d0a3e3d5fc7",
+        "sha256_in_prefix": "a3258126303a9344b6579ea13df5953d3584e1da860ef6b8f1601d0a3e3d5fc7",
+        "size_in_bytes": 1270
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__pycache__/_imagecodecs.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b7c1e17d5b5a7d0a3ea69f4977e6308c624db03f4c119782077444c72bb0a1a",
+        "sha256_in_prefix": "7b7c1e17d5b5a7d0a3ea69f4977e6308c624db03f4c119782077444c72bb0a1a",
+        "size_in_bytes": 21824
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/__pycache__/imagecodecs.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4da81b2b327d74cc83dd9832238eee369fc133930045a772840cf1a0227ea6b7",
+        "sha256_in_prefix": "4da81b2b327d74cc83dd9832238eee369fc133930045a772840cf1a0227ea6b7",
+        "size_in_bytes": 24515
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_aec.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "af875bf63a4e2e59a899831c59a54019bd22ba96b593025e37111e95e3b71043",
+        "sha256_in_prefix": "af875bf63a4e2e59a899831c59a54019bd22ba96b593025e37111e95e3b71043",
+        "size_in_bytes": 182784
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_bitshuffle.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "453c2c8e60e1c179553598afd3819e5860e8bae17ed8f0b994be0edefc89a9b8",
+        "sha256_in_prefix": "453c2c8e60e1c179553598afd3819e5860e8bae17ed8f0b994be0edefc89a9b8",
+        "size_in_bytes": 184832
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_blosc.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "99323e1af6b6cf1e14031b5b9e10b832d7f3df8b9124c577082e3449946cb1d8",
+        "sha256_in_prefix": "99323e1af6b6cf1e14031b5b9e10b832d7f3df8b9124c577082e3449946cb1d8",
+        "size_in_bytes": 161792
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_brotli.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "656742c9129b42835dec1ea1a3946d02c86f02a47ff48e08cdadd6c169a0bc5f",
+        "sha256_in_prefix": "656742c9129b42835dec1ea1a3946d02c86f02a47ff48e08cdadd6c169a0bc5f",
+        "size_in_bytes": 174080
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_bz2.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "dfb2cde445891bac2017398eb3ee0889711a84df27eab50bbc7001cc322d3d92",
+        "sha256_in_prefix": "dfb2cde445891bac2017398eb3ee0889711a84df27eab50bbc7001cc322d3d92",
+        "size_in_bytes": 178688
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_deflate.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "380ee8156e10859250fac7e63a448c71ee6d8b6823e5f3220b7eac9d681f52e8",
+        "sha256_in_prefix": "380ee8156e10859250fac7e63a448c71ee6d8b6823e5f3220b7eac9d681f52e8",
+        "size_in_bytes": 197632
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_gif.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "865d2152d4b11b3ca9d333d2dca3ddc0be13c0315bad2e37c92ef0ef11507e26",
+        "sha256_in_prefix": "865d2152d4b11b3ca9d333d2dca3ddc0be13c0315bad2e37c92ef0ef11507e26",
+        "size_in_bytes": 192000
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_imagecodecs.py",
+        "path_type": "hardlink",
+        "sha256": "34db10fa05bf6be74b798e772b00af06f79d7490f0b4db9df155bc828d65729c",
+        "sha256_in_prefix": "34db10fa05bf6be74b798e772b00af06f79d7490f0b4db9df155bc828d65729c",
+        "size_in_bytes": 26260
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_imcd.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "77fd96a1e11dfb87cebab26d955cc2e14adb76a87dfe8d0fbca0a6fc0b6f120c",
+        "sha256_in_prefix": "77fd96a1e11dfb87cebab26d955cc2e14adb76a87dfe8d0fbca0a6fc0b6f120c",
+        "size_in_bytes": 291840
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_jpeg2k.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "f0577ea281fe644bb01a5e281ca754fee5c331bdb434fce54aaaa4c2f31620b5",
+        "sha256_in_prefix": "f0577ea281fe644bb01a5e281ca754fee5c331bdb434fce54aaaa4c2f31620b5",
+        "size_in_bytes": 207872
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_jpeg8.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "5ba79102b13cbdd784897c7c517e73bca2ac1620eedc9f0823500bb0c9b2d5cc",
+        "sha256_in_prefix": "5ba79102b13cbdd784897c7c517e73bca2ac1620eedc9f0823500bb0c9b2d5cc",
+        "size_in_bytes": 392192
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_jpegls.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c6ca80e665e54981af31b78a39d6edd0572c4a0f107bd9f2383d15a890736a28",
+        "sha256_in_prefix": "c6ca80e665e54981af31b78a39d6edd0572c4a0f107bd9f2383d15a890736a28",
+        "size_in_bytes": 189952
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_jpegsof3.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "856e9fe8dd52c123fe5441a40be84a8b546e9308e008c356d78bee774e33d97e",
+        "sha256_in_prefix": "856e9fe8dd52c123fe5441a40be84a8b546e9308e008c356d78bee774e33d97e",
+        "size_in_bytes": 166912
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_jpegxr.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "7fd5d12932957abe89e547faa8abff9d3dd6fb5cae2d9c1461c7d61c828076bc",
+        "sha256_in_prefix": "7fd5d12932957abe89e547faa8abff9d3dd6fb5cae2d9c1461c7d61c828076bc",
+        "size_in_bytes": 647680
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_lerc.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "1ccbc94fe6413ccedf866e67e72236967474a384979d6f8c7ca2d0405f49d3bd",
+        "sha256_in_prefix": "1ccbc94fe6413ccedf866e67e72236967474a384979d6f8c7ca2d0405f49d3bd",
+        "size_in_bytes": 189440
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_lz4.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "ff0fe642118c772bc012c57fb2076a5224652acf019214b63d028bb527f0e4f8",
+        "sha256_in_prefix": "ff0fe642118c772bc012c57fb2076a5224652acf019214b63d028bb527f0e4f8",
+        "size_in_bytes": 163840
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_lz4f.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "2912cbf0eced4487bedf805c31acaebe5602e6db1cb356dfc61b68b982722c79",
+        "sha256_in_prefix": "2912cbf0eced4487bedf805c31acaebe5602e6db1cb356dfc61b68b982722c79",
+        "size_in_bytes": 186880
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_lzf.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c1f8c7da097ce04c53f886b0e17c2206ec0cf2a868253fdeb427d1a131251699",
+        "sha256_in_prefix": "c1f8c7da097ce04c53f886b0e17c2206ec0cf2a868253fdeb427d1a131251699",
+        "size_in_bytes": 163328
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_lzma.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "789bae4d3e6df0edab4861d2a9a01aad2ab3724be7066621f68e624aaaa65b24",
+        "sha256_in_prefix": "789bae4d3e6df0edab4861d2a9a01aad2ab3724be7066621f68e624aaaa65b24",
+        "size_in_bytes": 183808
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_png.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "e4387a6b6065626718a25ca833a69a714d8f8f517c793492522043dc416ae2c8",
+        "sha256_in_prefix": "e4387a6b6065626718a25ca833a69a714d8f8f517c793492522043dc416ae2c8",
+        "size_in_bytes": 174592
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_shared.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "752429370e3abc8b543e603d5824844c707c6130040aa587ef8809d360c64dc3",
+        "sha256_in_prefix": "752429370e3abc8b543e603d5824844c707c6130040aa587ef8809d360c64dc3",
+        "size_in_bytes": 175616
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_snappy.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "723f8c7c1a93181dea766152b4e8063a4d9aee252cb48e5a687c10a97287c062",
+        "sha256_in_prefix": "723f8c7c1a93181dea766152b4e8063a4d9aee252cb48e5a687c10a97287c062",
+        "size_in_bytes": 174592
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_tiff.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "a8e90b62db4cc61d883f02084a577f34ac2d2bda8cf6170584de4701c5e4dc7b",
+        "sha256_in_prefix": "a8e90b62db4cc61d883f02084a577f34ac2d2bda8cf6170584de4701c5e4dc7b",
+        "size_in_bytes": 210944
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_webp.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "9962a33e8ffe41b3353a8da95e8452e28cdc28a18af6ffabac2f5d2b5136d8c4",
+        "sha256_in_prefix": "9962a33e8ffe41b3353a8da95e8452e28cdc28a18af6ffabac2f5d2b5136d8c4",
+        "size_in_bytes": 644096
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_zfp.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "37d8b5055d54c882ae376975aecf3858f042c51edf873cbea1ec2e6015f795a0",
+        "sha256_in_prefix": "37d8b5055d54c882ae376975aecf3858f042c51edf873cbea1ec2e6015f795a0",
+        "size_in_bytes": 189952
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_zlib.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "64e1680416441956214e83affeda820a14297f52774e6af151c16d9f29b8c5f3",
+        "sha256_in_prefix": "64e1680416441956214e83affeda820a14297f52774e6af151c16d9f29b8c5f3",
+        "size_in_bytes": 177152
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_zopfli.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "02e02bbc657abfe302b187bbc6aed4d7696e04c53e13fc6b65c07ef3ceeb54b7",
+        "sha256_in_prefix": "02e02bbc657abfe302b187bbc6aed4d7696e04c53e13fc6b65c07ef3ceeb54b7",
+        "size_in_bytes": 154112
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/_zstd.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "ef94632d7c7abb38098081a9ad02f910fadb3e0923d623a91f7eef0fed46d616",
+        "sha256_in_prefix": "ef94632d7c7abb38098081a9ad02f910fadb3e0923d623a91f7eef0fed46d616",
+        "size_in_bytes": 173056
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/imagecodecs.py",
+        "path_type": "hardlink",
+        "sha256": "5b22e6b0069fabf104046d52865f326c78e87a6aa8b601964938f068d9d13490",
+        "sha256_in_prefix": "5b22e6b0069fabf104046d52865f326c78e87a6aa8b601964938f068d9d13490",
+        "size_in_bytes": 30859
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-aom",
+        "path_type": "hardlink",
+        "sha256": "ce3386408d82f8db6060e47ba199b5b1f7b3ff9f327c29a772621b7eefbc3946",
+        "sha256_in_prefix": "ce3386408d82f8db6060e47ba199b5b1f7b3ff9f327c29a772621b7eefbc3946",
+        "size_in_bytes": 1341
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-bitshuffle",
+        "path_type": "hardlink",
+        "sha256": "ef357c2061cf67db298f9f1565572ee229ad9263582a9f9d0ebff5094f5d10ac",
+        "sha256_in_prefix": "ef357c2061cf67db298f9f1565572ee229ad9263582a9f9d0ebff5094f5d10ac",
+        "size_in_bytes": 1148
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-blosc",
+        "path_type": "hardlink",
+        "sha256": "d7d6ea3deb4f9b68cf5e327cc554f5b1ffd5eca3cdc9e60f797ec50b6160d66a",
+        "sha256_in_prefix": "d7d6ea3deb4f9b68cf5e327cc554f5b1ffd5eca3cdc9e60f797ec50b6160d66a",
+        "size_in_bytes": 1576
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-brotli",
+        "path_type": "hardlink",
+        "sha256": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94",
+        "sha256_in_prefix": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94",
+        "size_in_bytes": 1084
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-brunsli",
+        "path_type": "hardlink",
+        "sha256": "5e12afa6f28bb5ce6959ab7d48b704ea1228263803cc61bd23966dc3157c4a9d",
+        "sha256_in_prefix": "5e12afa6f28bb5ce6959ab7d48b704ea1228263803cc61bd23966dc3157c4a9d",
+        "size_in_bytes": 1074
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-bzip2",
+        "path_type": "hardlink",
+        "sha256": "4919cfb14a73cd64fcef67b107613970cf1659a09aa675dba31314f373bc7204",
+        "sha256_in_prefix": "4919cfb14a73cd64fcef67b107613970cf1659a09aa675dba31314f373bc7204",
+        "size_in_bytes": 1901
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-charls",
+        "path_type": "hardlink",
+        "sha256": "73b19321a7d74c7b3d0aca858b224f22fe3a4464b55e6b2fbfe846d93ffa5dec",
+        "sha256_in_prefix": "73b19321a7d74c7b3d0aca858b224f22fe3a4464b55e6b2fbfe846d93ffa5dec",
+        "size_in_bytes": 1500
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-dav1d",
+        "path_type": "hardlink",
+        "sha256": "b19d87106bf153f6233927d95347b54e7bec089fbfb49e3c36133b56e45b1571",
+        "sha256_in_prefix": "b19d87106bf153f6233927d95347b54e7bec089fbfb49e3c36133b56e45b1571",
+        "size_in_bytes": 1340
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-fastlz",
+        "path_type": "hardlink",
+        "sha256": "709981ca7882d4f07861df4306639c9ebe9020157b878f3c473a7d7c19b4f4dc",
+        "sha256_in_prefix": "709981ca7882d4f07861df4306639c9ebe9020157b878f3c473a7d7c19b4f4dc",
+        "size_in_bytes": 1225
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-giflib",
+        "path_type": "hardlink",
+        "sha256": "0c9b7990ecdca88b676db232c226548ac408b279f550d424d996f0d83591dd8e",
+        "sha256_in_prefix": "0c9b7990ecdca88b676db232c226548ac408b279f550d424d996f0d83591dd8e",
+        "size_in_bytes": 1088
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-jpeg",
+        "path_type": "hardlink",
+        "sha256": "437bdc147ed96e033412a7cd3130ad8cfffe552d2c42c0d790512883a54abe4e",
+        "sha256_in_prefix": "437bdc147ed96e033412a7cd3130ad8cfffe552d2c42c0d790512883a54abe4e",
+        "size_in_bytes": 19348
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-jpg_0xc3",
+        "path_type": "hardlink",
+        "sha256": "e3accfeda2f4742c7a9960eb1db49695cda887618f18d2ccf91597795e27ac65",
+        "sha256_in_prefix": "e3accfeda2f4742c7a9960eb1db49695cda887618f18d2ccf91597795e27ac65",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-jxrlib",
+        "path_type": "hardlink",
+        "sha256": "223d21eac633788ada036025b083079bbd7b7f62ec82379cc45f75d1380931ce",
+        "sha256_in_prefix": "223d21eac633788ada036025b083079bbd7b7f62ec82379cc45f75d1380931ce",
+        "size_in_bytes": 1407
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-lcms2",
+        "path_type": "hardlink",
+        "sha256": "c725daac91a9259ce5e195683c0eeb797d345035c36ac5ba114c9fa80e11639a",
+        "sha256_in_prefix": "c725daac91a9259ce5e195683c0eeb797d345035c36ac5ba114c9fa80e11639a",
+        "size_in_bytes": 1078
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-lerc",
+        "path_type": "hardlink",
+        "sha256": "b5726bddcd8e94536717d7e125a366f163d0b20818b63cd452fd69b0d59bc598",
+        "sha256_in_prefix": "b5726bddcd8e94536717d7e125a366f163d0b20818b63cd452fd69b0d59bc598",
+        "size_in_bytes": 9155
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libaec",
+        "path_type": "hardlink",
+        "sha256": "c96bfa2f9a57727bb46f5b48987c8a540b0831293e1d09c4565ef12644f4b0cd",
+        "sha256_in_prefix": "c96bfa2f9a57727bb46f5b48987c8a540b0831293e1d09c4565ef12644f4b0cd",
+        "size_in_bytes": 1537
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libaivf",
+        "path_type": "hardlink",
+        "sha256": "e0ba04d4885bf25b03e20c8078e5f4b241bfe6a941d4a9bcc14cab09e2c27e62",
+        "sha256_in_prefix": "e0ba04d4885bf25b03e20c8078e5f4b241bfe6a941d4a9bcc14cab09e2c27e62",
+        "size_in_bytes": 8517
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libdeflate",
+        "path_type": "hardlink",
+        "sha256": "5d246dd2537307b80fed9ba5fdddf5d0fe7a8f023393a071182b9daed56b40fe",
+        "sha256_in_prefix": "5d246dd2537307b80fed9ba5fdddf5d0fe7a8f023393a071182b9daed56b40fe",
+        "size_in_bytes": 1052
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libjpeg",
+        "path_type": "hardlink",
+        "sha256": "f8bdebe9b6c7ae225d2a889b06c98693554afd49c9bb3880ae3fe39ec546df01",
+        "sha256_in_prefix": "f8bdebe9b6c7ae225d2a889b06c98693554afd49c9bb3880ae3fe39ec546df01",
+        "size_in_bytes": 3444
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libjpeg-turbo",
+        "path_type": "hardlink",
+        "sha256": "8412238c5ad95965cf3c3197791e9dea8b5fae505d133449e33ee2fa754fe61e",
+        "sha256_in_prefix": "8412238c5ad95965cf3c3197791e9dea8b5fae505d133449e33ee2fa754fe61e",
+        "size_in_bytes": 6008
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-liblzma",
+        "path_type": "hardlink",
+        "sha256": "23e4a187f21029caaf0bcf20f8441250290893fb5af24c6a154fa31ff150e22b",
+        "sha256_in_prefix": "23e4a187f21029caaf0bcf20f8441250290893fb5af24c6a154fa31ff150e22b",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libmng",
+        "path_type": "hardlink",
+        "sha256": "ba280734838eb3f22a85b92a7e62de357d4d4c325029dce723b0cb125c417c35",
+        "sha256_in_prefix": "ba280734838eb3f22a85b92a7e62de357d4d4c325029dce723b0cb125c417c35",
+        "size_in_bytes": 4622
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libpng",
+        "path_type": "hardlink",
+        "sha256": "f9850940c6606003eea9c8864b2a3f177eb5c963614aba5a3c5a24c47dd043ab",
+        "sha256_in_prefix": "f9850940c6606003eea9c8864b2a3f177eb5c963614aba5a3c5a24c47dd043ab",
+        "size_in_bytes": 4985
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libtiff",
+        "path_type": "hardlink",
+        "sha256": "fbd6fed7938541d2c809c0826225fc85e551fdbfa8732b10f0c87e0847acafd7",
+        "sha256_in_prefix": "fbd6fed7938541d2c809c0826225fc85e551fdbfa8732b10f0c87e0847acafd7",
+        "size_in_bytes": 1146
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-libwebp",
+        "path_type": "hardlink",
+        "sha256": "e293d1dddc9785200b1f58a4f5293543cf8566d9e0b8a3c02fad955035b19f42",
+        "sha256_in_prefix": "e293d1dddc9785200b1f58a4f5293543cf8566d9e0b8a3c02fad955035b19f42",
+        "size_in_bytes": 1495
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-lz4",
+        "path_type": "hardlink",
+        "sha256": "d15d99c8dc6b0ec22174c0e563a95bc40f9363ca7f9d9d793bb5c5a8e8d0af71",
+        "sha256_in_prefix": "d15d99c8dc6b0ec22174c0e563a95bc40f9363ca7f9d9d793bb5c5a8e8d0af71",
+        "size_in_bytes": 1311
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-lzf",
+        "path_type": "hardlink",
+        "sha256": "78411e481503fad783a6581bf78946812decae397004caf149639dac84182d4c",
+        "sha256_in_prefix": "78411e481503fad783a6581bf78946812decae397004caf149639dac84182d4c",
+        "size_in_bytes": 1436
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-openjpeg",
+        "path_type": "hardlink",
+        "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6",
+        "sha256_in_prefix": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6",
+        "size_in_bytes": 2112
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-rav1e",
+        "path_type": "hardlink",
+        "sha256": "1dc445d0f69bcd5f397c3e307804c13f3fab76aa83626e75d6a9e2e18b2d1e88",
+        "sha256_in_prefix": "1dc445d0f69bcd5f397c3e307804c13f3fab76aa83626e75d6a9e2e18b2d1e88",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-snappy",
+        "path_type": "hardlink",
+        "sha256": "55172044f7e241207117448a4d9d6ba1d0925c8ad66b5d4c08c70adfa9cc3de6",
+        "sha256_in_prefix": "55172044f7e241207117448a4d9d6ba1d0925c8ad66b5d4c08c70adfa9cc3de6",
+        "size_in_bytes": 2645
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-tinyexr",
+        "path_type": "hardlink",
+        "sha256": "e678da4a842c7f7a738f5679c1605c8106ed15be4b55acdf69c37d08b57c31c4",
+        "sha256_in_prefix": "e678da4a842c7f7a738f5679c1605c8106ed15be4b55acdf69c37d08b57c31c4",
+        "size_in_bytes": 3535
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-zfp",
+        "path_type": "hardlink",
+        "sha256": "efaf78b45a95b2c4e28bf65090f868d3ebee485926642d5b9a334c9d3995b90e",
+        "sha256_in_prefix": "efaf78b45a95b2c4e28bf65090f868d3ebee485926642d5b9a334c9d3995b90e",
+        "size_in_bytes": 2962
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-zlib",
+        "path_type": "hardlink",
+        "sha256": "fefeb20bf292c34f1e8d5114731308aac188d65aa3dc5f85bb2e9b0d007b7ab8",
+        "sha256_in_prefix": "fefeb20bf292c34f1e8d5114731308aac188d65aa3dc5f85bb2e9b0d007b7ab8",
+        "size_in_bytes": 1002
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-zopfli",
+        "path_type": "hardlink",
+        "sha256": "018b1cb87efdf7a04c2fcc13d57ed63f62149113fb207b27ea13430d64f13513",
+        "sha256_in_prefix": "018b1cb87efdf7a04c2fcc13d57ed63f62149113fb207b27ea13430d64f13513",
+        "size_in_bytes": 11341
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/LICENSE-zstd",
+        "path_type": "hardlink",
+        "sha256": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
+        "sha256_in_prefix": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
+        "size_in_bytes": 1530
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs/licenses/PATENTS-rav1e",
+        "path_type": "hardlink",
+        "sha256": "6e8b7ef08e41a079055fa46850dc72fd34f7d9fe300eea316d32555a6f0550bf",
+        "sha256_in_prefix": "6e8b7ef08e41a079055fa46850dc72fd34f7d9fe300eea316d32555a6f0550bf",
+        "size_in_bytes": 5810
+      },
+      {
+        "_path": "Scripts/imagecodecs.exe",
+        "path_type": "hardlink",
+        "sha256": "466fc28423cc9ec1d47fb62345c0829690aa2757d9349b27a652b3e9664e83c8",
+        "sha256_in_prefix": "466fc28423cc9ec1d47fb62345c0829690aa2757d9349b27a652b3e9664e83c8",
+        "size_in_bytes": 106358
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f803de6b67fcda5e6ae2929345bf302fb64b526581ccc6fe45a18eca941b2b96",
+  "size": 6135414,
+  "subdir": "win-64",
+  "timestamp": 1611265755703,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/imagecodecs-2021.1.11-py38h5da4933_1.conda",
+  "version": "2021.1.11"
+}

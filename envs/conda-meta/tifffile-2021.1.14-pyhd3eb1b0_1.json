@@ -1,0 +1,223 @@
+{
+  "build": "pyhd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "imagecodecs",
+    "numpy >=1.15.1",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\tifffile-2021.1.14-pyhd3eb1b0_1",
+  "features": "",
+  "files": [
+    "Scripts/tiffcomment",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/INSTALLER",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/LICENSE",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/METADATA",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/RECORD",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/REQUESTED",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/WHEEL",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/direct_url.json",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/entry_points.txt",
+    "Lib/site-packages/tifffile-2021.1.14.dist-info/top_level.txt",
+    "Lib/site-packages/tifffile/__init__.py",
+    "Lib/site-packages/tifffile/__main__.py",
+    "Lib/site-packages/tifffile/lsm2bin.py",
+    "Lib/site-packages/tifffile/tiffcomment.py",
+    "Lib/site-packages/tifffile/tifffile.py",
+    "Lib/site-packages/tifffile/tifffile_geodb.py",
+    ".nonadmin",
+    "Lib/site-packages/tifffile/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/lsm2bin.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tiffcomment.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile_geodb.cpython-38.pyc",
+    "Scripts/tifffile-script.py",
+    "Scripts/lsm2bin-script.py",
+    "Scripts/tifffile.exe",
+    "Scripts/lsm2bin.exe"
+  ],
+  "fn": "tifffile-2021.1.14-pyhd3eb1b0_1.conda",
+  "legacy_bz2_md5": "b2e1a699c43b367d10c73b944b8b352d",
+  "legacy_bz2_size": 128482,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\tifffile-2021.1.14-pyhd3eb1b0_1",
+    "type": 1
+  },
+  "md5": "571bad4c07da7c40d611705bd10992df",
+  "name": "tifffile",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\tifffile-2021.1.14-pyhd3eb1b0_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/tiffcomment",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/tifffile_1610739638720/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7606fde0829eeb0f1835c7224443ff8cfc1cdaa60f4f57b4a927524a769f5da0",
+        "sha256_in_prefix": "4706caf36be6d5ce176e10bc49c4c79479b8f2488ffaa50aba60fff0e1e0dacb",
+        "size_in_bytes": 502
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "32920c54a77c053480d4f042dec5cee98dc78ba0c168b448a2df1d1abf213b6b",
+        "sha256_in_prefix": "32920c54a77c053480d4f042dec5cee98dc78ba0c168b448a2df1d1abf213b6b",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "382c6319309abe6648a0b5de071194548ca7884c249c01dcbd46573711528489",
+        "sha256_in_prefix": "382c6319309abe6648a0b5de071194548ca7884c249c01dcbd46573711528489",
+        "size_in_bytes": 24887
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2cb96c07dce1185ec9a61283c37b1f7faefc61940011551217aa31ab6a572107",
+        "sha256_in_prefix": "2cb96c07dce1185ec9a61283c37b1f7faefc61940011551217aa31ab6a572107",
+        "size_in_bytes": 1812
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5a37e7799105db2ea9bf2d49bcedbe789903e304874b396687ef1973dcfac129",
+        "sha256_in_prefix": "5a37e7799105db2ea9bf2d49bcedbe789903e304874b396687ef1973dcfac129",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "a248bf95f61e24bbc6d48964e34b37803a9bcb1a058acb2e8f678c463f0febd6",
+        "sha256_in_prefix": "a248bf95f61e24bbc6d48964e34b37803a9bcb1a058acb2e8f678c463f0febd6",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "site-packages/tifffile-2021.1.14.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "87a7aa68736a6a426ad2d54dd37ed742246e5a1d7fdc903c4892e19336d37cb8",
+        "sha256_in_prefix": "87a7aa68736a6a426ad2d54dd37ed742246e5a1d7fdc903c4892e19336d37cb8",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/tifffile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "82a60fc5e03f64d89ec1d57ffa40ca59a1695d83f259e89efb64538f90952dfc",
+        "sha256_in_prefix": "82a60fc5e03f64d89ec1d57ffa40ca59a1695d83f259e89efb64538f90952dfc",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/tifffile/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "4966ca62acae468bd0c09aa4267cd8b5bc0065850b1d691e839dc56390d7a553",
+        "sha256_in_prefix": "4966ca62acae468bd0c09aa4267cd8b5bc0065850b1d691e839dc56390d7a553",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "site-packages/tifffile/lsm2bin.py",
+        "path_type": "hardlink",
+        "sha256": "361b2a6f52ac4487074bf8f05927db53674365071eba9d0e6ee0d94b04157eab",
+        "sha256_in_prefix": "361b2a6f52ac4487074bf8f05927db53674365071eba9d0e6ee0d94b04157eab",
+        "size_in_bytes": 667
+      },
+      {
+        "_path": "site-packages/tifffile/tiffcomment.py",
+        "path_type": "hardlink",
+        "sha256": "06ed58fabe4bc9ce3baa1fcac0d9398e0c2ef608a33838a419ab71e0e7556481",
+        "sha256_in_prefix": "06ed58fabe4bc9ce3baa1fcac0d9398e0c2ef608a33838a419ab71e0e7556481",
+        "size_in_bytes": 1424
+      },
+      {
+        "_path": "site-packages/tifffile/tifffile.py",
+        "path_type": "hardlink",
+        "sha256": "1123a0823d6cbcd531c3d1f04896667de54632a44b82c5f5015c9e4403a63ab7",
+        "sha256_in_prefix": "1123a0823d6cbcd531c3d1f04896667de54632a44b82c5f5015c9e4403a63ab7",
+        "size_in_bytes": 585686
+      },
+      {
+        "_path": "site-packages/tifffile/tifffile_geodb.py",
+        "path_type": "hardlink",
+        "sha256": "83f41d838a0e18666bee1d96c70c17aacb665ab0000bd8cfbda2f41af6aa2998",
+        "sha256_in_prefix": "83f41d838a0e18666bee1d96c70c17aacb665ab0000bd8cfbda2f41af6aa2998",
+        "size_in_bytes": 61890
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/lsm2bin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tiffcomment.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tifffile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tifffile_geodb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/tifffile-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/lsm2bin-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/tifffile.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/lsm2bin.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f09dca9aa89d1824ee60002e1cef4e511b20f25d3bc0b06f7e4858bc72707d17",
+  "size": 129394,
+  "subdir": "noarch",
+  "timestamp": 1610739674072,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tifffile-2021.1.14-pyhd3eb1b0_1.conda",
+  "version": "2021.1.14"
+}

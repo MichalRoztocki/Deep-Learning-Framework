@@ -1,0 +1,72 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\lerc-2.2.1-hd77b12b_0",
+  "features": "",
+  "files": [
+    "Library/bin/Lerc.dll",
+    "Library/include/Lerc_c_api.h",
+    "Library/include/Lerc_types.h",
+    "Library/lib/Lerc.lib",
+    ".nonadmin"
+  ],
+  "fn": "lerc-2.2.1-hd77b12b_0.conda",
+  "legacy_bz2_md5": "10c32bc2a7b05b4e2f72d066d0b845a9",
+  "legacy_bz2_size": 136997,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\lerc-2.2.1-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "faa4b810a4b85ca7feab9b488c506569",
+  "name": "lerc",
+  "package_tarball_full_path": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\lerc-2.2.1-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/Lerc.dll",
+        "path_type": "hardlink",
+        "sha256": "86e697980bf6d000c0d02aa2c64d71b29e69bd8c43717e4a7cbfec31bfad3e00",
+        "sha256_in_prefix": "86e697980bf6d000c0d02aa2c64d71b29e69bd8c43717e4a7cbfec31bfad3e00",
+        "size_in_bytes": 367616
+      },
+      {
+        "_path": "Library/include/Lerc_c_api.h",
+        "path_type": "hardlink",
+        "sha256": "718ad9269a364cfd77b5bb10712cb8eb636c080eb6c378890257c570f4bf4e1e",
+        "sha256_in_prefix": "718ad9269a364cfd77b5bb10712cb8eb636c080eb6c378890257c570f4bf4e1e",
+        "size_in_bytes": 10071
+      },
+      {
+        "_path": "Library/include/Lerc_types.h",
+        "path_type": "hardlink",
+        "sha256": "3505e9cf0152d830602cd1b3d6706b21a140a5b145e20367bcb5490cd1444e3f",
+        "sha256_in_prefix": "3505e9cf0152d830602cd1b3d6706b21a140a5b145e20367bcb5490cd1444e3f",
+        "size_in_bytes": 822
+      },
+      {
+        "_path": "Library/lib/Lerc.lib",
+        "path_type": "hardlink",
+        "sha256": "f0635c00263ac040a8fc9e7e31b13384fee127d3f13477e9d3ab17cba0037778",
+        "sha256_in_prefix": "f0635c00263ac040a8fc9e7e31b13384fee127d3f13477e9d3ab17cba0037778",
+        "size_in_bytes": 3062
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f8c83c03ea77956dbdc09068daaf114358bf36c4e469a3982d6b3f751d9b3865",
+  "size": 116631,
+  "subdir": "win-64",
+  "timestamp": 1609353874086,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lerc-2.2.1-hd77b12b_0.conda",
+  "version": "2.2.1"
+}

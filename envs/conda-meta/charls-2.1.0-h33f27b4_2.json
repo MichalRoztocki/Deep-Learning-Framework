@@ -1,0 +1,104 @@
+{
+  "build": "h33f27b4_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\charls-2.1.0-h33f27b4_2",
+  "features": "",
+  "files": [
+    "Library/bin/charls-2-x64.dll",
+    "Library/include/charls/api_abi.h",
+    "Library/include/charls/charls.h",
+    "Library/include/charls/charls_legacy.h",
+    "Library/include/charls/jpegls_error.h",
+    "Library/include/charls/public_types.h",
+    "Library/include/charls/version.h",
+    "Library/lib/charls-2-x64.lib",
+    ".nonadmin"
+  ],
+  "fn": "charls-2.1.0-h33f27b4_2.conda",
+  "legacy_bz2_md5": "3b4887fc26801e0e6668318349159775",
+  "legacy_bz2_size": 107690,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\charls-2.1.0-h33f27b4_2",
+    "type": 1
+  },
+  "md5": "a85dfcb8b87993cff9c25ebe66003b0b",
+  "name": "charls",
+  "package_tarball_full_path": "C:\\Users\\mrozt\\Documents\\anaconda3\\pkgs\\charls-2.1.0-h33f27b4_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/charls-2-x64.dll",
+        "path_type": "hardlink",
+        "sha256": "81eab9059faad33ff68e287c096f65212dac9a02617334af1c40544ef322b01d",
+        "sha256_in_prefix": "81eab9059faad33ff68e287c096f65212dac9a02617334af1c40544ef322b01d",
+        "size_in_bytes": 234496
+      },
+      {
+        "_path": "Library/include/charls/api_abi.h",
+        "path_type": "hardlink",
+        "sha256": "10e7bad38192d3b2dba122934f6231c7ee8d992c5cf9a60dbca4f0cee894c240",
+        "sha256_in_prefix": "10e7bad38192d3b2dba122934f6231c7ee8d992c5cf9a60dbca4f0cee894c240",
+        "size_in_bytes": 1471
+      },
+      {
+        "_path": "Library/include/charls/charls.h",
+        "path_type": "hardlink",
+        "sha256": "3a0e950f3f53a0270242dea7d9ad47dc3f32eb4f9aa94557ed8ba66ebb2e63d6",
+        "sha256_in_prefix": "3a0e950f3f53a0270242dea7d9ad47dc3f32eb4f9aa94557ed8ba66ebb2e63d6",
+        "size_in_bytes": 44497
+      },
+      {
+        "_path": "Library/include/charls/charls_legacy.h",
+        "path_type": "hardlink",
+        "sha256": "cc248e809895548499394347c608c39c7d1b95ccd230e9de01c1a7b3bb0ca8cc",
+        "sha256_in_prefix": "cc248e809895548499394347c608c39c7d1b95ccd230e9de01c1a7b3bb0ca8cc",
+        "size_in_bytes": 1229
+      },
+      {
+        "_path": "Library/include/charls/jpegls_error.h",
+        "path_type": "hardlink",
+        "sha256": "ec43fbbb72738396528cdff7f08fe871359dd1b4f809ec5f1a54919ac97e4287",
+        "sha256_in_prefix": "ec43fbbb72738396528cdff7f08fe871359dd1b4f809ec5f1a54919ac97e4287",
+        "size_in_bytes": 1882
+      },
+      {
+        "_path": "Library/include/charls/public_types.h",
+        "path_type": "hardlink",
+        "sha256": "12f158c4ff2568369d0e08cee6af7bb0c843d8a77bb005e80082db6e2d9abcfa",
+        "sha256_in_prefix": "12f158c4ff2568369d0e08cee6af7bb0c843d8a77bb005e80082db6e2d9abcfa",
+        "size_in_bytes": 38339
+      },
+      {
+        "_path": "Library/include/charls/version.h",
+        "path_type": "hardlink",
+        "sha256": "14e12dc74e16ccc31dbe53052f60aa370dfda08749c3b70d090b69f0982e784e",
+        "sha256_in_prefix": "14e12dc74e16ccc31dbe53052f60aa370dfda08749c3b70d090b69f0982e784e",
+        "size_in_bytes": 1155
+      },
+      {
+        "_path": "Library/lib/charls-2-x64.lib",
+        "path_type": "hardlink",
+        "sha256": "38806d1e9b076108f9ee2185c710b59aa8e3a1731c8ef3271dc9cc28a96258b8",
+        "sha256_in_prefix": "38806d1e9b076108f9ee2185c710b59aa8e3a1731c8ef3271dc9cc28a96258b8",
+        "size_in_bytes": 13418
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fc992d13e579fe3d212c390b19064a153795e2336676a3f115c04ee040ecc9bc",
+  "size": 93974,
+  "subdir": "win-64",
+  "timestamp": 1593188861727,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/charls-2.1.0-h33f27b4_2.conda",
+  "version": "2.1.0"
+}
